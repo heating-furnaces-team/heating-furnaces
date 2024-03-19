@@ -1,6 +1,19 @@
-# happy_furnaces
+# Happy Furnaces - Frontend
 
-A new Flutter project.
+Flutter frontend for the Heating Furnaces project.
+
+## Launching the app
+
+To launch the app, you need to have Flutter installed. You can find the installation instructions [here](https://flutter.dev/docs/get-started/install).
+
+After installing Flutter, you can run the app by executing the following command in the terminal:
+
+```bash
+flutter run
+```
+
+Then select web (Chrome or Edge) as the target device.
+You can also run the app on a mobile device if you have emulator installed.
 
 ## Getting Started
 
