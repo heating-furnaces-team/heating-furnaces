@@ -8,4 +8,4 @@ The project is divided into three main parts:
 3. **Frontend** - a flutter application that allows users to manage furnaces and view their data.
 
 ## Start the project
-*In the future* - the project will be dockerized and it will be possible to start it with one command.
+*In the future* - the project will be dockerized and it will be possible to start it with one command. 
